@@ -26,8 +26,8 @@
   },
   {
     "id": "6",
-    "name": "Nightwing",
-    "img": "images/penguin.jpg"
+    "name": "Robin",
+    "img": "images/robin.jpg"
   },
   {
     "id": "7",
@@ -48,5 +48,15 @@
     "id": "10",
     "name": "Barbara",
     "img": "images/Barbara.jpg"
+  },
+  {
+    "id": "11",
+    "name": "Joker & harley",
+    "img": "images/jokerharely.jpg"
+  },
+  {
+    "id": "12",
+    "name": "Batman",
+    "img": "images/batman.jpg"
   }
 ]
