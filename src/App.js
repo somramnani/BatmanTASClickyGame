@@ -21,6 +21,7 @@ class App extends React.Component {
     this.setState({ display: "Click a Card to begin!" });
   }
 
+  // Resets the Game
   resetGame() {
     this.setState({
       clicked: [],
@@ -38,6 +39,7 @@ class App extends React.Component {
         highScore: this.state.score,
         score: 0
       });
+      // When lost resets the game
       this.resetGame();
     }
 
@@ -69,8 +71,8 @@ class App extends React.Component {
             Click a card to begin! If you click the same card twice you lose!
           </Typography>
           <Typography
-            variant="h5"
-            component="h5"
+            variant="h6"
+            component="h6"
             style={{ color: "goldenrod", textAlign: "center" }}
           >
             Current Score: {this.state.score}
