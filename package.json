@@ -1,6 +1,5 @@
 {
   "name": "clickygame",
-  "homepage": "https://somramnani.github.io/ClickyGame/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
