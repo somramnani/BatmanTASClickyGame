@@ -97,17 +97,6 @@ class App extends React.Component {
             </Grid>
           ))}
         </Grid>
-        <Grid container alignItems="center">
-          <Grid item xs>
-            <Button
-              name="reset"
-              component="button"
-              onClick={() => this.resetGame()}
-            >
-              Reset
-            </Button>
-          </Grid>
-        </Grid>
       </>
     );
   }
