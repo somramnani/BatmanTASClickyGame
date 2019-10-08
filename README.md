@@ -4,7 +4,7 @@ A batman memory game built in React.
 ## Features/Technology Used 
 - HTML5/CSS
 - JavaScript
-  - React
+- React.js
   
 ## Features
  - The application renders different images of characters from Batman the Animated Series to the screen. 
