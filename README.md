@@ -12,7 +12,7 @@ A batman memory game built in React.
 - JavaScript
   - React.js
   
-## Features
+## &#x1f4f2; Features
  - The application renders different images of characters from Batman the Animated Series to the screen. 
  - Each image listens for click events.
  - The application keeps track of the user's score. 
