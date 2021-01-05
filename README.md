@@ -1,10 +1,16 @@
 ## Batman: The Animated Series Clicky Game
 A batman memory game built in React. 
 
-## Features/Technology Used 
+## Table of contents
+
+- [&#x1f527; Technologies & Tools](#key-technology--tools)
+- [&#x1f4f2; Features](#-features)
+
+
+## &#x1f527; Key Technology & Tools
 - HTML5/CSS
 - JavaScript
-- React.js
+  - React.js
   
 ## Features
  - The application renders different images of characters from Batman the Animated Series to the screen. 
