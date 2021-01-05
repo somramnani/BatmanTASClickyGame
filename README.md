@@ -1,4 +1,4 @@
-## Batman: The Animated Series Clicky Game
+## Batman: The Animated Series Clicky Game :bat:
 A batman memory game built in React. 
 
 ## Table of contents
